@@ -46,6 +46,21 @@ Edit
 python3 password_generator.py
 
 
- CLONE THE REPOSITORY
-```bash
-git clone https://github.com/UdoChigbu/password-generator
+IMPORTANT NOTES
+
+Make sure you have Python installed (preferably Python 3.x).
+
+Pyperclip is used to copy the password to your system clipboard automatically.
+
+Adjust the password length and character options to suit your security needs.
+
+PROJECT STRUCTURE
+
+password-generator/
+├── password_generator.py (main python GUI app)
+
+Author
+
+Udo Chigbu
+GitHub: https://github.com/UdoChigbu
+
